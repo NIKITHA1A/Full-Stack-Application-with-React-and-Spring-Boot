@@ -60,5 +60,4 @@ This project demonstrates clean architecture, REST conventions, validation, auth
 ---
 
 ## Project Structure
-## code run 
-http://localhost:3000
+
